@@ -5,7 +5,7 @@ Binary Search is a searching algorithm used to search for an element or conditio
 
 ## Algorithm
 ```
-# Find an index where `nums[i] == target`, or return -1 if not found.
+# Find an index where nums[i] == target, or return -1 if not found.
 
 def binary_search(nums, target):
     left, right = 0, len(nums) - 1         # 2 pointers setting to top left and top right of the input array  
