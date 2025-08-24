@@ -1,5 +1,5 @@
 # Merge Sort (Python)
-
+![Visual](./merge_sort_visual.gif)
 ## What is Merge Sort?
 
 Merge Sort is a **divide-and-conquer** algorithm that:
