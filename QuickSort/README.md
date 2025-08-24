@@ -34,3 +34,7 @@ def quickSort(arr, low=0, high=None):
     quickSort(arr, low, p - 1)                 # Sort 1st half before partition
     quickSort(arr, p + 1, high)                # Sort 2nd half after partition
 ```
+
+## Reference
+[YouTube](https://www.youtube.com/watch?v=7h1s2SojIRw )
+[W3Schools](https://www.w3schools.com/dsa/dsa_algo_quicksort.php)
