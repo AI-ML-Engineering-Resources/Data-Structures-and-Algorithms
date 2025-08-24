@@ -1,5 +1,5 @@
 # Binary Search (Python)
-
+![Visual](./binary_search_visual.gif)
 ## What is Binary Search?
 Binary Search is a searching algorithm used to search for an element or condition in **sorted data**. It works by repeatedly halving the search space. Time complexity: `O(log n)`.
 
