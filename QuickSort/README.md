@@ -1,5 +1,5 @@
 # Quick Sort (Python)
-
+![Visual](./quicksort_visual.gif)
 ## What is Quick Sort?
 
 Quick Sort is a **divide-and-conquer** sorting algorithm that:
